@@ -4,7 +4,7 @@
 <br>
 
 <div align="center">
-  <a href="https://twitter.com/Rochedo098"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
+  <a href="https://twitter.com/r0xxedo"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
   <a href="https://twitch.tv/roxxedo"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch Badge"></a>
   <a href="https://gitlab.com/Roxedo"><img src="https://img.shields.io/badge/GitLab-E24329?style=for-the-badge&logo=gitlab&logoColor=white" alt="Gitlab Badge"></a>
 </div>
