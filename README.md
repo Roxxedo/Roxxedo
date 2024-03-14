@@ -10,9 +10,9 @@
   <a href="https://gitlab.com/Roxedo"><img src="https://img.shields.io/badge/GitLab-E24329?style=for-the-badge&logo=gitlab&logoColor=white" alt="Gitlab Badge"></a>
 </div>
 
-## About me
+## About me / Sobre mim
 
-### Tools and Technology
+### Tools and Technology / Ferramentas e Tecnologias
 <div>
   <a href="https://git-scm.com/">
     <img width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -28,7 +28,7 @@
   </a>
 </div>
 
-### Programming Languages
+### Programming Languages / Linguagens de Programação
 <div>
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">
     <img width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -55,8 +55,10 @@
   </a>
 </div>
 
-### I'm Learning
+### I'm Learning / Estou aprendendo
 <i>We always be learning something</i>
+<br>
+<i>Estamos sempre aprendendo alguma coisa</i>
 
 ---
 
