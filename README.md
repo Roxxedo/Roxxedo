@@ -1,5 +1,6 @@
 <h1 align="center"> Roxxedo <img src="https://www.gov.br/planalto/pt-br/conheca-a-presidencia/acervo/simbolos-nacionais/bandeira/bandeiragrande.jpg" width=32 height=22> </h1> 
 <h3 align="center"> Hello everyone! <br> Welcome to my Github profile! </h3>
+<h3 align="center"> Olá a todos(a)! <br> Sejam bem-vindos(a) ao meu perfil no Github! </h3>
 
 <br>
 
