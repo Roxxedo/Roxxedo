@@ -1,14 +1,4 @@
-<h1 align="center"> Roxxedo <img src="https://www.gov.br/planalto/pt-br/conheca-a-presidencia/acervo/simbolos-nacionais/bandeira/bandeiragrande.jpg" width=32 height=22> </h1> 
-<h3 align="center"> Hello everyone! <br> Welcome to my Github profile! </h3>
-<h3 align="center"> Olá a todos(a)! <br> Sejam bem-vindos(a) ao meu perfil no Github! </h3>
-
-<br>
-
-<div align="center">
-  <a href="https://twitter.com/r0xxedo"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
-  <a href="https://twitch.tv/roxxedo"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch Badge"></a>
-  <a href="https://gitlab.com/Roxedo"><img src="https://img.shields.io/badge/GitLab-E24329?style=for-the-badge&logo=gitlab&logoColor=white" alt="Gitlab Badge"></a>
-</div>
+<h1 align="center"> Pedro Ambrosini <img src="https://www.gov.br/planalto/pt-br/conheca-a-presidencia/acervo/simbolos-nacionais/bandeira/bandeiragrande.jpg" width=32 height=22> </h1> 
 
 ## About me / Sobre mim
 
