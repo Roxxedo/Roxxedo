@@ -72,6 +72,7 @@ Infraestrutura &nbsp; **•** &nbsp;
 ![archived](https://img.shields.io/badge/Status-Temporariamente_Arquivado-yellow?style=flat&logo=github&logoColor=white) <br>
 > <br>
 
+<br>
 ---
 
 <picture>
