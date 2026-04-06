@@ -7,22 +7,22 @@
 
 # Pedro Ambrosini 🇧🇷
 
-Desenvolvedor Backend &nbsp; **•** &nbsp; 
-Sistemas &nbsp; **•** &nbsp; 
-Infraestrutura &nbsp; **•** &nbsp;
+Backend Developer &nbsp; **•** &nbsp; 
+Systems &nbsp; **•** &nbsp; 
+Infrastructure &nbsp; **•** &nbsp;
 ❤️ Open Source
 
 <!--![Instagram](https://img.shields.io/badge/-pedro__ambrosini-default?style=flat&logo=instagram&logoColor=white&labelColor=FF0069&color=ff4d96)-->
 
 ## 📖 &nbsp;Sobre mim
 
-- Atualmente estou trabalhando como `freelancer`
-- Atualmente estou aprendendo `PHP` no IFSul
-- Atualmente estou estudando no `Instituto Federal Sul-rio-grandense - Câmpus Charqueadas`
+- I'm currently working as `freelancer`
+- I'm currently learning `PHP` in IFSul
+- I'm currently studying at `Instituto Federal Sul-rio-grandense - Câmpus Charqueadas`
 
-## ⚡&nbsp; Tecnologias
+## ⚡&nbsp; Tecnologies
 
-### 💻 Linguagens
+### 💻 Languages
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS-663399?style=flat&logo=css&logoColor=white)
@@ -35,7 +35,7 @@ Infraestrutura &nbsp; **•** &nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql&logoColor=white)
 
-### 🧩 Frameworks & Ferramentas
+### 🧩 Frameworks & Tools
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
 ![Next.JS](https://img.shields.io/badge/-NextJS-black?style=flat&logo=nextdotjs&logoColor=white)
@@ -47,7 +47,7 @@ Infraestrutura &nbsp; **•** &nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-4000BF?style=flat&logo=insomnia&logoColor=white)
 
-### 🖥️ Sistemas
+### 🖥️ Systems
 
 ![Fedora](https://img.shields.io/badge/-Fedora-51A2DA?style=flat&logo=fedora&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-ffb608?style=flat&logo=linux&logoColor=white)
@@ -55,21 +55,21 @@ Infraestrutura &nbsp; **•** &nbsp;
 ![MacOS](https://img.shields.io/badge/-MacOS-black?style=flat&logo=apple&logoColor=white)
 
 
-## 🚧 &nbsp; Projetos Ativos
+## 🚧 &nbsp; Active Projects
 
 > &nbsp; <br>
-> [**CodeDaily Runner** (roxxedo/codedaily-runner)](https://github.com/Roxxedo/codedaily-runner) -  O CodeDaily Runner é o serviço responsável por executar códigos submetidos pelos usuários no CodeDaily de forma segura, isolada e controlada. <br>
+> [**CodeDaily Runner** (roxxedo/codedaily-runner)](https://github.com/Roxxedo/codedaily-runner) -  CodeDaily Runner is the service responsible for executing code submitted by users to CodeDaily in a secure, isolated, and controlled manner. <br>
 >
 > ![language](https://img.shields.io/github/languages/top/Roxxedo/codedaily-runner?logo=rust&label=Rust) &nbsp;
-![License](https://img.shields.io/github/license/Roxxedo/codedaily-runner?label=Licença) <br>
+![License](https://img.shields.io/github/license/Roxxedo/codedaily-runner?label=License) <br>
 > <br>
 
 > &nbsp; <br> ⚠️
-> [**Modustry** (roxxedo/modustry)](https://github.com/Roxxedo/codedaily-runner) -  O Modustry é a plataforma responsável por centralizar, organizar e disponibilizar mods para o jogo Mindustry de forma prática, intuitiva e eficiente. <br>
+> [**Modustry** (roxxedo/modustry)](https://github.com/Roxxedo/codedaily-runner) - Modustry is the platform responsible for centralizing, organizing, and making mods available for the Mindustry game in a practical, intuitive, and efficient way. <br>
 >
-> ![language](https://img.shields.io/github/languages/top/Roxxedo/modustry?logo=typescript&label=TypeScript&logoColor=white) &nbsp;
-![License](https://img.shields.io/github/license/Roxxedo/modustry?label=Licença) &nbsp;
-![archived](https://img.shields.io/badge/Status-Temporariamente_Arquivado-yellow?style=flat&logo=github&logoColor=white) <br>
+> ![language](https://img.shields.io/github/languages/top/Roxxedo/modustry?logo=typescript&label=TypeScript) &nbsp;
+![License](https://img.shields.io/github/license/Roxxedo/modustry?label=License) &nbsp;
+![archived](https://img.shields.io/badge/Status-Temporary_Archived-yellow?style=flat&logo=github&logoColor=white) <br>
 > <br>
 
 ---
