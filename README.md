@@ -50,8 +50,8 @@ Infraestrutura &nbsp; **•** &nbsp;
 ### 🖥️ Sistemas
 
 ![Fedora](https://img.shields.io/badge/-Fedora-51A2DA?style=flat&logo=fedora&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-ffb608?style=flat&logo=linux&logoColor=white)
-![Windows](https://img.shields.io/badge/-Windows-FCC624?style=flat&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-003778?style=flat&logo=linux&logoColor=white)
+![Windows](https://img.shields.io/badge/-Windows-087cd5?style=flat&logo=windows&logoColor=white)
 ![MacOS](https://img.shields.io/badge/-MacOS-black?style=flat&logo=apple&logoColor=white)
 
 
