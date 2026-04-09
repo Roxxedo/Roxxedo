@@ -58,6 +58,13 @@ Infraestrutura &nbsp; **•** &nbsp;
 ## 🚧 &nbsp; Projetos Ativos
 
 > &nbsp; <br>
+> [**CodeDaily** (roxxedo/codedaily)](https://github.com/Roxxedo/codedaily) -   O CodeDaily é uma plataforma de desafios de programação que permite aos usuários submeter código e receber feedback automático por meio de execução em ambiente separado.  <br>
+>
+> ![language](https://img.shields.io/github/languages/top/Roxxedo/codedaily?logo=typescript&label=TypeScript&logoColor=white) &nbsp;
+![License](https://img.shields.io/github/license/Roxxedo/codedaily?label=Licença) <br>
+> <br>
+
+> &nbsp; <br>
 > [**CodeDaily Runner** (roxxedo/codedaily-runner)](https://github.com/Roxxedo/codedaily-runner) -  O CodeDaily Runner é o serviço responsável por executar códigos submetidos pelos usuários no CodeDaily de forma segura, isolada e controlada. <br>
 >
 > ![language](https://img.shields.io/github/languages/top/Roxxedo/codedaily-runner?logo=rust&label=Rust) &nbsp;
@@ -65,10 +72,10 @@ Infraestrutura &nbsp; **•** &nbsp;
 > <br>
 
 > &nbsp; <br> ⚠️
-> [**Modustry** (roxxedo/modustry)](https://github.com/Roxxedo/codedaily-runner) -  O Modustry é a plataforma responsável por centralizar, organizar e disponibilizar mods para o jogo Mindustry de forma prática, intuitiva e eficiente. <br>
+> [**Modustry** (roxcom-br/modustry)](https://github.com/roxcom-br/modustry) -  O Modustry é a plataforma responsável por centralizar, organizar e disponibilizar mods para o jogo Mindustry de forma prática, intuitiva e eficiente. <br>
 >
-> ![language](https://img.shields.io/github/languages/top/Roxxedo/modustry?logo=typescript&label=TypeScript&logoColor=white) &nbsp;
-![License](https://img.shields.io/github/license/Roxxedo/modustry?label=Licença) &nbsp;
+> ![language](https://img.shields.io/github/languages/top/roxcom-br/modustry?logo=typescript&label=TypeScript&logoColor=white) &nbsp;
+![License](https://img.shields.io/github/license/roxcom-br/modustry?label=Licença) &nbsp;
 ![archived](https://img.shields.io/badge/Status-Temporariamente_Arquivado-yellow?style=flat&logo=github&logoColor=white) <br>
 > <br>
 

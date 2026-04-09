@@ -58,6 +58,13 @@ Infrastructure &nbsp; **•** &nbsp;
 ## 🚧 &nbsp; Active Projects
 
 > &nbsp; <br>
+> [**CodeDaily** (roxxedo/codedaily)](https://github.com/Roxxedo/codedaily) -   CodeDaily is a programming challenge platform that allows users to submit code and receive automatic feedback through execution in a separate environment.  <br>
+>
+> ![language](https://img.shields.io/github/languages/top/Roxxedo/codedaily?logo=typescript&label=TypeScript&logoColor=white) &nbsp;
+![License](https://img.shields.io/github/license/Roxxedo/codedaily?label=License) <br>
+> <br>
+
+> &nbsp; <br>
 > [**CodeDaily Runner** (roxxedo/codedaily-runner)](https://github.com/Roxxedo/codedaily-runner) -  CodeDaily Runner is the service responsible for executing code submitted by users to CodeDaily in a secure, isolated, and controlled manner. <br>
 >
 > ![language](https://img.shields.io/github/languages/top/Roxxedo/codedaily-runner?logo=rust&label=Rust) &nbsp;
@@ -65,10 +72,10 @@ Infrastructure &nbsp; **•** &nbsp;
 > <br>
 
 > &nbsp; <br> ⚠️
-> [**Modustry** (roxxedo/modustry)](https://github.com/Roxxedo/codedaily-runner) - Modustry is the platform responsible for centralizing, organizing, and making mods available for the Mindustry game in a practical, intuitive, and efficient way. <br>
+> [**Modustry** (roxcom-br/modustry)](https://github.com/roxcom-br/modustry) - Modustry is the platform responsible for centralizing, organizing, and making mods available for the Mindustry game in a practical, intuitive, and efficient way. <br>
 >
-> ![language](https://img.shields.io/github/languages/top/Roxxedo/modustry?logo=typescript&label=TypeScript) &nbsp;
-![License](https://img.shields.io/github/license/Roxxedo/modustry?label=License) &nbsp;
+> ![language](https://img.shields.io/github/languages/top/roxcom-br/modustry?logo=typescript&label=TypeScript&logoColor=white) &nbsp;
+![License](https://img.shields.io/github/license/roxcom-br/modustry?label=License) &nbsp;
 ![archived](https://img.shields.io/badge/Status-Temporary_Archived-yellow?style=flat&logo=github&logoColor=white) <br>
 > <br>
 
