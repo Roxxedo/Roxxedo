@@ -58,6 +58,20 @@ Infraestrutura &nbsp; **•** &nbsp;
 ## 🚧 &nbsp; Projetos Ativos
 
 > &nbsp; <br>
+> [**Modustry** (roxcom-br/modustry)](https://github.com/roxcom-br/modustry) -  O Modustry é a plataforma responsável por centralizar, organizar e disponibilizar mods para o jogo Mindustry de forma prática, intuitiva e eficiente. <br>
+>
+> ![language](https://img.shields.io/github/languages/top/roxcom-br/modustry?logo=typescript&label=TypeScript&logoColor=white) &nbsp;
+![License](https://img.shields.io/github/license/roxcom-br/modustry?label=Licença) &nbsp;
+> <br>
+
+> &nbsp; <br>
+> [**Modustry Bridge** (roxxedo/modustrybridge)](https://github.com/roxxedo/modustrybridge) -  O Modustry Bridge é o mod responsável por integrar o Mindustry à plataforma de forma prática e intuitiva. <br>
+>
+> ![language](https://img.shields.io/github/languages/top/roxxedo/modustrybridge?logo=java&label=Java&logoColor=white) &nbsp;
+![License](https://img.shields.io/github/license/roxxedo/modustrybridge?label=Licença) &nbsp;
+> <br>
+
+> &nbsp; <br>
 > [**CodeDaily** (roxxedo/codedaily)](https://github.com/Roxxedo/codedaily) -   O CodeDaily é uma plataforma de desafios de programação que permite aos usuários submeter código e receber feedback automático por meio de execução em ambiente separado.  <br>
 >
 > ![language](https://img.shields.io/github/languages/top/Roxxedo/codedaily?logo=typescript&label=TypeScript&logoColor=white) &nbsp;
@@ -69,14 +83,6 @@ Infraestrutura &nbsp; **•** &nbsp;
 >
 > ![language](https://img.shields.io/github/languages/top/Roxxedo/codedaily-runner?logo=rust&label=Rust) &nbsp;
 ![License](https://img.shields.io/github/license/Roxxedo/codedaily-runner?label=Licença) <br>
-> <br>
-
-> &nbsp; <br> ⚠️
-> [**Modustry** (roxcom-br/modustry)](https://github.com/roxcom-br/modustry) -  O Modustry é a plataforma responsável por centralizar, organizar e disponibilizar mods para o jogo Mindustry de forma prática, intuitiva e eficiente. <br>
->
-> ![language](https://img.shields.io/github/languages/top/roxcom-br/modustry?logo=typescript&label=TypeScript&logoColor=white) &nbsp;
-![License](https://img.shields.io/github/license/roxcom-br/modustry?label=Licença) &nbsp;
-![archived](https://img.shields.io/badge/Status-Temporariamente_Arquivado-yellow?style=flat&logo=github&logoColor=white) <br>
 > <br>
 
 <br>
